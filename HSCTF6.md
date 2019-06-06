@@ -1,9 +1,9 @@
 <h1> Web </h1>
 Flag is: hsctf{that_was_pretty_easy_right}
 <br> View source code with Ctrl + U then you got the first part: 
-<ppre><!-- The first part of the flag is: hsctf{that_was_ --></pre>
-Open <i><script src="script.js"></script><i> view-source:https://inspect-me.web.chal.hsctf.com/style.css you got second part
-  <pre>/* The second part of the flag is: pretty_easy_ */</pre>
+<pre> The first part of the flag is: hsctf{that_was_ </pre>
+Open <code>script.js view-source:https://inspect-me.web.chal.hsctf.com/style.css </code> you got second part
+  <pre><code>/* The second part of the flag is: pretty_easy_ */</pre></code>
   Open <i><link rel="stylesheet" href="style.css"></i> you got last part
   <pre><code>
 // The last part of the flag is: right}</pre></code<
