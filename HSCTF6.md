@@ -21,7 +21,7 @@ Please enter your JSON:</pre>
 <h2> keith Bot </h2>
 <a href="https://www.nullpxl.com/blog/hsctf6#jsoninfo">
 
-
+Reference: https://www.youtube.com/watch?v=VX9043lT0hQ&feature=youtu.be
 
 <h1> Binary Exploitation </h1>
 <h2> Intro to netcat </h2>
